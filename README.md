@@ -26,7 +26,7 @@ https://github.com/VJ7293/ThinkJsApp.git
 
 
 Deployment
-This project is deployed on Vercel. The live version can be accessed here.
+This project is deployed on Vercel. The live version can be accessed here -> https://think-js-app.vercel.app/
 Features
 Replicated UI design with Material UI
 Table with star ratings
